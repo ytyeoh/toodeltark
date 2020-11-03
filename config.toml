@@ -1,4 +1,4 @@
-baseURL = 'https://example.com/'
+baseURL = 'http://demo.deansbrook.edu.my/'
 defaultContentLanguage = 'en'
 # Emoji in markdown files
 enableEmoji = true
