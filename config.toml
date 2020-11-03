@@ -20,7 +20,7 @@ customJS = ["js/console.js"] # Path relative to assets folder
 # For blog page description you can overwrite it 
 # in the front matter
 description = "Toodelar Child card Babby care"
-email = "mail@example.com"
+email = "0164286173"
 favicon = '/favicon.png'
 
 # Social parameters for contact_icons widget
